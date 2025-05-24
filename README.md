@@ -21,3 +21,7 @@ db_tcc_4rqy_user:agF6XEI16SSm7nhvyrrKwWUeg1YgwLgs@ : Apaga
 ?sslmode=require: Insere no fim
 
 jdbc:postgresql://dpg-d0otkhre5dus73d8q850-a.oregon-postgres.render.com:5432/db_tcc_4rqy?sslmode=require
+
+
+Ctrl + Enter = dar commit.add
+
